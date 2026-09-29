@@ -1,0 +1,1 @@
+Abra index.html. Cada tela agora é um arquivo HTML separado e os botões/barra inferior levam para páginas diferentes, como um aplicativo.
